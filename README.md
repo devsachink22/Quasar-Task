@@ -13,9 +13,10 @@ Pre-Requisites:
 
 # Current Features
 1. ECG Mode channels are converted from µV to mV.
-2. Zoom In/Out.
-3. Export results.
-4. Range slider.
+2. Created buttons to view custom plots or specifically related to EEG, ECG, CM or all.
+3. Zoom In/Out.
+4. Export results.
+5. Range slider.
 
 # Future Features
 1. Channel overlay mode – view selected EEG channels in the same subplot for easier comparison (e.g., Fz vs Cz).
